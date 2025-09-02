@@ -33,7 +33,7 @@ Transparency is more than the disclosure of mechanisms: it is the condition that
 
 ## Design must be open and shareable
 
-Openness in design means that knowledge, materials, and outputs circulate as resources for participation rather than commodities for consumption. Sharing redefines the role of the user as a contributor who enlarges the network through their participation. Openness makes every participant an economic actor in the broader sense of sustaining collective presence. To make something open is to integrate it into a common world. Design should give form to this participation, enabling replication, adaptation, and collective growth.
+Openness in design means that knowledge, materials, and outputs circulate as resources for participation rather than commodities for consumption. Sharing redefines the role of the user as a contributor who enlarges the network through their participation. Openness makes every participant an economic actor in the broader sense, sustaining a collective presence. To make something open is to integrate it into a common world. Design should give form to this participation, enabling replication, adaptation, and collective growth.
 
 ## Design must be deliberative (and therefore open)
 
@@ -43,7 +43,3 @@ Openness is not merely technical but an orientation towards the future. To desig
 ### Corollary
 
 Design, in its relationship with technology, must move beyond producing what is possible and engage in deliberation about what is desirable. Every system, every pictogram, every interface participates in shaping a shared world. To design is, ultimately, to assume responsibility for the future of human coexistence.
-
-⸻
-
-¿Quieres que además prepare un esquema visual (por ejemplo, una tabla matricial o un diagrama tipo espiral) para mostrar gráficamente este tránsito de lo genérico a lo particular?
