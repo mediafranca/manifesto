@@ -1,8 +1,7 @@
 # Design Manifesto
 
 
-Design is not only a transversal human capacity nor only an instrumental practice; it shapes the ways in which we inhabit the world with technology. Every artefact, interface, and system configures possibilities for action and relation, defines what becomes accessible, what is shared, and what is excluded. This manifesto sets out principles for guiding design in its relationship with technology as a cultural, social, and political medium.
-Principles
+Design is not only a transversal human capacity nor only an instrumental practice; it shapes the ways in which we inhabit the world with technology. Every artefact, interface, and system configures possibilities for action and relation, defines what becomes accessible, what is shared, and what is excluded. This manifesto sets out principles for guiding design in its relationship with technology as a cultural, social, and political medium. These are the design principles that this manifest elevates.
 
 ## 1. Design must be semantically clear (cognitively accessible)
 Cognitive accessibility in design means creating representations whose meaning can be reliably grasped across diverse users and contexts. This requires clear segmentation of concepts, a calibrated gradient of abstraction, and control of visual density so that elements remain perceptually identifiable. Symbols must be tested for comprehensibility and for consistent association with their intended referents, following established standards. Ultimately, semantic clarity emerges when a design not only conveys information explicitly but also sustains recognition, interpretation, and use under real conditions of perception and context.
