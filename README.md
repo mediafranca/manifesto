@@ -49,5 +49,3 @@ Designers must care not only for individual practice, but for the field itself. 
 ### Corollary
 
 Design must move beyond producing what is possible and engage in deliberation about what is desirable. Every design participates in shaping a shared world. To design is ultimately to assume responsibility for the future of human coexistence.
-
-<img width="442" height="654" alt="image" src="https://github.com/user-attachments/assets/09650936-30d4-4f5b-850b-d3f880dbea71" />
