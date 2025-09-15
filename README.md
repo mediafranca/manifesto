@@ -67,3 +67,5 @@ Design artefacts propose their own way of being used, deployed, and celebrated. 
 
 Design must go beyond producing what is possible and commit to deliberating what is desirable. All design participates in the configuration of a shared world. Designing is, ultimately, taking responsibility for the future of human coexistence.
 
+---
+*note: original version, published in Spanish, [here](https://herbertspencer.net/2025/manifiesto).*
